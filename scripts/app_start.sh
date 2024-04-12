@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #_Change_Working_Directory
-cd /home/ubuntu
+cd /home/ubuntu/server
 
 #_Delete_Old_PM2_Service
 pm2 delete all
